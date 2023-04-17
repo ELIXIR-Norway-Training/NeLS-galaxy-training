@@ -1,2 +1,2 @@
 # NeLS-galaxy-training
- Training materials for using NeLS and Galaxy
+ ELIXIR Norway training materials for using NeLS and Galaxy
